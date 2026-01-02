@@ -3,7 +3,7 @@
         "content_title": "cloud7 Tamil OTT",
         "content_sub_title": "India",
         "app_type": "tv",
-        "content_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Nick_HD_Plus_BTS/output/index.mpd?__hdnea__=st=1767357003~exp=1767443403~acl=/*~hmac=ca7935652176f8008e8eeca1bb2f2a4c93e3e6d381b758e1beed6832dc407a1b&xxx=%7Ccookie=__hdnea__=st=1767357003~exp=1767443403~acl=/*~hmac=ca7935652176f8008e8eeca1bb2f2a4c93e3e6d381b758e1beed6832dc407a1b",
+        "content_url": "http://server.sscloud7.in:1935/cloud/cloud7/playlist.m3u8",
         "stream_url": "http://server.sscloud7.in:1935/cloud/cloud7/playlist.m3u8",
         "channellist": "show",
         "channeldata": [
@@ -17,7 +17,7 @@
             {
                 "channelname": "SS HD1",
                 "area": "Abudabi",
-                "playbackurl": "http://tamilott.sscloud7.in/live/sshd/index.m3u8",
+                "playbackurl": "https://jiotvpllive.cdn.jio.com/bpk-tv/Nick_HD_Plus_BTS/output/index.mpd?__hdnea__=st=1767357003~exp=1767443403~acl=/*~hmac=ca7935652176f8008e8eeca1bb2f2a4c93e3e6d381b758e1beed6832dc407a1b&xxx=%7Ccookie=__hdnea__=st=1767357003~exp=1767443403~acl=/*~hmac=ca7935652176f8008e8eeca1bb2f2a4c93e3e6d381b758e1beed6832dc407a1b",
                 "logo": "https://sscloud7.in/rasinetwork/sshdlogo.png",
                 "Id": "1"
             },
